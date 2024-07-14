@@ -1,4 +1,4 @@
-- 👋 Welcome. I'm PolygonCantCode.
+- 👋 Welcome. I'm Polygon. And I can't code.
 - 👀 I’m interested in gaming.
 - 🌱 I’m currently learning the Unity 2D/3D game engine.
 - 💞️ I’m looking to collaborate on a Sonic Fangame
